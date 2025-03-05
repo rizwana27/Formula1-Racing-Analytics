@@ -1,0 +1,6 @@
+selected resource name:		pipeline1
+selected resource type:		pipeline
+factory name:			rizwana-adf
+factory location:		centralus
+subscription id:		8785f594-785f-41ff-961b-7f0f63caceaf
+time of download (UTC):		Wed, 05 Mar 2025 22:25:15 GMT

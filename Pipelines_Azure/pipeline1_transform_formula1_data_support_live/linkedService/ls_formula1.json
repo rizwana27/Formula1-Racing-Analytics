@@ -1,0 +1,14 @@
+{
+    "name": "ls_formula1",
+    "type": "Microsoft.DataFactory/factories/linkedservices",
+    "properties": {
+        "annotations": [],
+        "type": "AzureDatabricks",
+        "typeProperties": {
+            "domain": "https://adb-3291982434684761.1.azuredatabricks.net",
+            "authentication": "MSI",
+            "workspaceResourceId": "/subscriptions/8785f594-785f-41ff-961b-7f0f63caceaf/resourceGroups/Databricks-Rizwana-RG/providers/Microsoft.Databricks/workspaces/databricks-rizwana-WS",
+            "existingClusterId": "0206-144004-yu5pgum5"
+        }
+    }
+}
